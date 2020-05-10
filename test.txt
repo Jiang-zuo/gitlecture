@@ -4,4 +4,5 @@ add a third line
 add a fourth line
 add another line
 add a sixth line
-add a seventh line 
+add a seventh line
+welcome to study git lecture 
